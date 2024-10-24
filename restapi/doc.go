@@ -8,7 +8,7 @@
 //
 //
 //	Schemes:
-//	  https
+//	  http
 //	Host: virtserver.swaggerhub.com
 //	BasePath: /go9130416421/bcard/1.0.0
 //	Version: 1.0.0

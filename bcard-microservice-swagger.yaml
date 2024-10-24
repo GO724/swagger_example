@@ -469,4 +469,4 @@ definitions:
 host: virtserver.swaggerhub.com
 basePath: /go9130416421/bcard/1.0.0
 schemes:
- - https
+ - http
